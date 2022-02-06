@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+.cards_container {
+  width: 75%;
+  min-height: 100vh;
+  margin-left: 2%;
+  padding: 2%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.filter_container {
+  width: 25%;
+  padding: 2%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
